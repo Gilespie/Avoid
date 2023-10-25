@@ -6,9 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Avoid_Obstacles.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
     path: Assets/Scenes/Rocket_Level.unity
     guid: a32c315e69ca88941b6fffff9db50eba
+  - enabled: 1
+    path: Assets/Scenes/Rocket_Level2.unity
+    guid: 831c4891c88705649a573424e11e1ddc
+  - enabled: 1
+    path: Assets/Scenes/Rocket_Level3.unity
+    guid: 01d4539910819874e8b68306e6a18cab
   m_configObjects: {}

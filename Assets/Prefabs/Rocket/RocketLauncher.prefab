@@ -2561,7 +2561,6 @@ MonoBehaviour:
   _explosiveFX: {fileID: 4014160533293616508}
   _successSFX: {fileID: 8300000, guid: f02bcb0352c17034ba2cea63a78af38f, type: 3}
   _successFX: {fileID: 6406191329592081158}
-  _beginSFX: {fileID: 8300000, guid: eb22e5f7c3d1ec3428137fd7bf767639, type: 3}
 --- !u!114 &3956448663419019398
 MonoBehaviour:
   m_ObjectHideFlags: 0
