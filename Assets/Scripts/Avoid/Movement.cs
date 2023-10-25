@@ -5,11 +5,6 @@ public class Movement : MonoBehaviour
     [SerializeField] private float _movementSpeed;
     [SerializeField] private int _hitCount = 0;
 
-    private void Start()
-    {
-        
-    }
-
     private void Update()
     {
         MovementInput();   
